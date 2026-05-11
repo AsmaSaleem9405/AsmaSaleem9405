@@ -1,16 +1,77 @@
-## Hi there 👋
+Hi there, I'm Asma Saleem 👋
+Frontend Developer passionate about building modern, responsive, and user-friendly web applications using Next.js, Tailwind CSS, and modern frontend technologies.
 
-<!--
-**AsmaSaleem9405/AsmaSaleem9405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Who am I?
+I'm a detail-oriented Frontend Developer with hands-on experience gained through:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Frontend Development Internship
+
+
+University Final Year Project development
+
+
+Real-world responsive UI implementation
+
+
+I enjoy creating clean interfaces, reusable components, and smooth user experiences while continuously learning modern frontend technologies.
+
+🚀 What am I currently working on?
+
+
+Building responsive web applications with Next.js
+
+
+Improving frontend performance and accessibility
+
+
+Creating scalable UI component systems
+
+
+Exploring advanced frontend architecture and animations
+
+
+
+🛠️ Tools & Technologies
+Frontend Development
+
+
+HTML5
+
+
+CSS3
+
+
+JavaScript
+
+
+Next.js
+
+
+Tailwind CSS
+
+
+Responsive Design
+
+
+Tools
+
+
+Git
+
+
+GitHub
+
+
+Canva
+
+
+MS Word
+
+
+MS Excel
+
+
+MS PowerPoint
+
+
