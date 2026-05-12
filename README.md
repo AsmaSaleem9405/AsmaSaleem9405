@@ -48,12 +48,6 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AsmaSaleem9405.AsmaSaleem9405&"  />
-</div>
-
-###
-
-<div align="left">
   <a href="https://www.linkedin.com/in/asma-saleem-0bbaa0319/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -64,3 +58,8 @@
 
 ###
 
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AsmaSaleem9405.AsmaSaleem9405&"  />
+</div>
+
+###
