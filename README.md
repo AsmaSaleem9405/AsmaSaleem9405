@@ -409,43 +409,17 @@ Studied Computer Science with coursework and practical exposure to:
 
 ---
 
-## 🎯 Current Focus
-
-```yaml
+🎯 Current Focus
 profile:
   name: "Asma Saleem"
-  role: "Frontend Developer"
+  role: "Junior Frontend Developer"
   location: "Lahore, Pakistan"
-
-core_stack:
-  - "Next.js"
-  - "React"
-  - "JavaScript"
-  - "Tailwind CSS"
-  - "HTML"
-  - "CSS"
-
-api:
-  - "REST APIs"
-  - "API Integration"
-  - "Postman"
-  - "HTTP Requests"
-  - "JSON"
-
-tools:
-  - "Git"
-  - "GitHub"
-  - "VS Code"
-  - "npm"
-  - "Vercel"
-  - "Chrome DevTools"
-  - "Figma"
 
 learning:
   - "Advanced Next.js"
   - "Modern React Development"
   - "TypeScript"
-  - "Frontend Performance"
+  - "Frontend Performance Optimization"
   - "Scalable Component Architecture"
 
 building:
@@ -458,17 +432,14 @@ exploring:
   - "Modern Frontend Architecture"
   - "Web Performance"
   - "Accessibility"
-  - "API Integration"
-  - "Product-Focused UI/UX"
+  - "Product-focused UI/UX"
 
 open_to:
   - "Frontend Developer Opportunities"
   - "Next.js / React Projects"
-  - "API Integration Projects"
   - "Collaborative Development"
   - "Open Source Contributions"
-
-  🤝 Connect With Me
+🤝 Connect With Me
 
 <div align="center">
 
