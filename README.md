@@ -218,3 +218,37 @@ open_to:
   - "Next.js / React Projects"
   - "Collaborative Product Engineering"
   - "Open Source Contributions"
+```
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:asmasaleemuafo@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-asmasaleemuafo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/asma-saleem1/">
+<img src="https://img.shields.io/badge/LinkedIn-Asma%20Saleem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Asma%20Saleem-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Building responsive experiences, one component at a time.
+
+<a href="https://capsule-render.vercel.app/">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=120&section=footer" width="100%"/>
+</a>
+
+</div>
+
