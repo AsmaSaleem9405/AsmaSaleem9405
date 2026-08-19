@@ -29,17 +29,17 @@
 
 ## 👩‍💻 About Me
 
-* **Frontend Developer** specializing in building responsive, high-performance web applications using modern web technologies[cite: 2].
-* Expert in transforming **UI/UX designs, wireframes, and business requirements** into scalable frontend architectures[cite: 2].
-* Strong focus on **component-based design, accessibility standards, website optimization, and cross-browser compatibility**[cite: 2].
-* Experienced in modern version control workflows, API integrations, and collaborative product engineering[cite: 2].
+* **Frontend Developer** specializing in building responsive, high-performance web applications using modern web technologies.
+* Expert in transforming **UI/UX designs, wireframes, and business requirements** into scalable frontend architectures.
+* Strong focus on **component-based design, accessibility standards, website optimization, and cross-browser compatibility**.
+* Experienced in modern version control workflows, API integrations, and collaborative product engineering.
 
 ### 🎯 Open To
-* Frontend Developer opportunities[cite: 2]
-* Next.js / React projects[cite: 2]
-* UI-to-code implementation roles[cite: 2]
-* Responsive web application development[cite: 2]
-* Open-source contributions[cite: 2]
+* Frontend Developer opportunities
+* Next.js / React projects
+* UI-to-code implementation roles
+* Responsive web application development
+* Open-source contributions
 
 ---
 
@@ -55,12 +55,13 @@
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Next.js**[cite: 2] | Advanced[cite: 2] | Responsive web applications, modern architecture, and scalable routing[cite: 2] |
-| **JavaScript**[cite: 2] | Strong[cite: 2] | Interactive interfaces, application logic, and DOM manipulation[cite: 2] |
-| **React**[cite: 2] | Strong[cite: 2] | Component-based UI development and reusable interface architecture[cite: 2] |
-| **Tailwind CSS**[cite: 2] | Strong[cite: 2] | Utility-first responsive styling and mobile-first development[cite: 2] |
-| **UI/UX Implementation**[cite: 2] | Strong[cite: 2] | Translating Figma wireframes into functional, pixel-perfect frontend code[cite: 2] |
-| **Performance Optimization**[cite: 2] | Intermediate[cite: 2] | Website optimization, debugging, and cross-browser compatibility[cite: 2] |
+| **Next.js** | Advanced | Responsive web applications, modern architecture, and scalable routing |
+| **JavaScript** | Strong | Interactive interfaces, application logic, and DOM manipulation |
+| **React** | Strong | Component-based UI development and reusable interface architecture |
+| **Tailwind CSS** | Strong | Utility-first responsive styling and mobile-first development |
+| **APIs & Integration** | Strong | RESTful API connection, endpoint testing via Postman, and asynchronous data flows |
+| **UI/UX Implementation** | Strong | Translating Figma wireframes into functional, pixel-perfect frontend code |
+| **Performance Optimization** | Intermediate | Website optimization, debugging, and cross-browser compatibility |
 
 ---
 
@@ -94,7 +95,7 @@ A suite of responsive frontend applications built leveraging modern component-dr
 
 | Metric / Attribute | Detail |
 | :--- | :--- |
-| **Stack** | Next.js · JavaScript · Tailwind CSS · React · Postman |
+| **Stack** | Next.js · JavaScript · Tailwind CSS · React · Postman · VS Code |
 | **Architecture** | Mobile-first modular layout with reusable component structures |
 | **Performance** | Streamlined asset loading and clean semantic DOM markup |
 | **Security** | Adherence to modern web security standards and sanitized inputs |
@@ -112,12 +113,12 @@ A suite of responsive frontend applications built leveraging modern component-dr
 
 ## 💼 Experience
 
-### Frontend Developer — Devisgon[cite: 2]
-*January 2026 – June 2026*[cite: 2]
+### Frontend Developer — Devisgon
+*January 2026 – June 2026*
 
-* Developed and maintained responsive, high-performance web applications using Next.js, JavaScript, and Tailwind CSS, ensuring seamless user experiences across multiple devices and browsers[cite: 2].
-* Translated UI/UX designs, wireframes, and business requirements into scalable frontend solutions by building reusable components, maintaining design consistency, and following modern development standards[cite: 2].
-* Collaborated with cross-functional teams to optimize application performance, troubleshoot issues, implement new features, and ensure accessibility, responsiveness, and overall product quality[cite: 2].
+* Developed and maintained responsive, high-performance web applications using Next.js, JavaScript, and Tailwind CSS, ensuring seamless user experiences across multiple devices and browsers.
+* Translated UI/UX designs, wireframes, and business requirements into scalable frontend solutions by building reusable components, maintaining design consistency, and following modern development standards.
+* Collaborated with cross-functional teams to optimize application performance, troubleshoot issues, implement new features, and ensure accessibility, responsiveness, and overall product quality.
 
 ---
 
@@ -127,10 +128,10 @@ A suite of responsive frontend applications built leveraging modern component-dr
 
 | Recognition | Details |
 | :--- | :--- |
-| **🎓 Computer Science Graduate**[cite: 2] | Completed rigorous foundational training in Computer Science at the University of Agriculture[cite: 2] |
-| **💻 Frontend Professional**[cite: 2] | Demonstrated real-world experience building scalable applications at Devisgon[cite: 2] |
-| **🎨 UI/UX Implementation**[cite: 2] | Skilled in translating design briefs and wireframes into clean, production-ready frontend code[cite: 2] |
-| **📱 Responsive Architecture**[cite: 2] | Dedicated focus on mobile-first development, accessibility standards, and cross-browser consistency[cite: 2] |
+| **🎓 Computer Science Graduate** | Completed rigorous foundational training in Computer Science at the University of Agriculture |
+| **💻 Frontend Professional** | Demonstrated real-world experience building scalable applications at Devisgon |
+| **🎨 UI/UX Implementation** | Skilled in translating design briefs and wireframes into clean, production-ready frontend code |
+| **📱 Responsive Architecture** | Dedicated focus on mobile-first development, accessibility standards, and cross-browser consistency |
 
 </div>
 
