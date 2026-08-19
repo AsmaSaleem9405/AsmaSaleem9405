@@ -27,31 +27,34 @@
 
 ---
 
-## 💜 Asma Saleem — Frontend Developer
+## 👩‍💻 About Me
 
-👩‍💻 About Me
-I'm a Frontend Developer focused on building responsive, user-focused web applications with modern frontend technologies[cite: 2].
-I specialize in transforming UI/UX designs, wireframes, and business requirements into scalable frontend interfaces with a strong focus on responsiveness, accessibility, performance, reusable components, and maintainable code[cite: 2].
-My current frontend toolkit includes Next.js, JavaScript, React, Tailwind CSS, HTML, CSS, APIs, Postman, VS Code, and modern development workflows, supported by Git/GitHub, Figma, Vercel, Chrome DevTools, and Canva[cite: 2].
-I enjoy solving frontend problems, improving user experiences, collaborating with development teams, and continuously learning modern web technologies[cite: 2].
+* Frontend Developer specializing in building responsive, user-focused web applications using Next.js, JavaScript, Tailwind CSS, HTML, and CSS[cite: 2].
+* Experienced in translating UI/UX designs into scalable frontend solutions, developing reusable components, optimizing website performance, and ensuring cross-browser compatibility[cite: 2].
+* Strong understanding of modern web development practices, responsive design principles, version control workflows, and collaborative software development environments[cite: 2].
+* Passionate about learning new technologies and contributing to high-quality software products[cite: 2].
 
-🎯 Open To
+### 🎯 Open To
 * Frontend Developer opportunities[cite: 2]
-* Software Engineer roles
+* Junior Software Engineer roles
 * Next.js / React projects[cite: 2]
 * UI-to-code implementation[cite: 2]
 * Responsive web application development[cite: 2]
 * Collaborative product development[cite: 2]
 * Open-source contributions[cite: 2]
 
-🛠️ Tech Stack
-* **Languages:** JavaScript, HTML5, CSS3[cite: 2]
-* **Frontend:** Next.js, React, Tailwind CSS, Responsive Design[cite: 2]
-* **Backend & Databases:** APIs, Supabase (Database & Authentication)[cite: 2]
-* **Cloud, DevOps & Tooling:** Git, GitHub, Vercel, VS Code, Postman, Chrome DevTools, Git Bash[cite: 2]
-* **Design & Collaboration:** Figma, Canva, Jira, Bugzilla, Linear, Google Workspace, Microsoft Office Suite[cite: 2]
+---
 
-🚀 Frontend Expertise
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,supabase,git,github,vscode,postman,figma,vercel,canva,jira,windows" />
+</p>
+
+---
+
+## 🚀 Frontend Expertise
+
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
 | **Next.js**[cite: 2] | Advanced[cite: 2] | Responsive web applications, reusable components, modern frontend architecture[cite: 2] |
@@ -61,25 +64,31 @@ I enjoy solving frontend problems, improving user experiences, collaborating wit
 | **HTML & CSS**[cite: 2] | Strong[cite: 2] | Semantic markup, layouts, responsive styling[cite: 2] |
 | **Responsive Design**[cite: 2] | Strong[cite: 2] | Mobile-first and cross-device interfaces[cite: 2] |
 | **UI/UX Implementation**[cite: 2] | Strong[cite: 2] | Translating Figma designs and wireframes into frontend interfaces[cite: 2] |
-| **APIs & Postman** | Strong | API integration, endpoint testing, and debugging using Postman and Chrome DevTools[cite: 2] |
+| **APIs & Tooling** | Strong | API integration, endpoint testing with Postman, VS Code, and Chrome DevTools[cite: 2] |
 | **Performance**[cite: 2] | Intermediate[cite: 2] | Website optimization and frontend performance enhancement[cite: 2] |
 | **Accessibility**[cite: 2] | Intermediate[cite: 2] | Accessible and user-friendly interface development[cite: 2] |
 | **Git & GitHub**[cite: 2] | Strong[cite: 2] | Version control and collaborative development workflows[cite: 2] |
 
-⭐ Featured Projects
+---
 
-### AI Chatbot Web Application
+## ⭐ Featured Projects
+
+<details>
+<summary><b>🤖 AI Chatbot Web Application</b></summary>
+
 An AI-powered chatbot web application designed to provide users with an interactive conversational experience and persistent chat functionality.
-* **Category:** Details
-* **Stack:** Next.js · React · Tailwind CSS · Supabase · Google Gemini AI · APIs
-* **Frontend:** Next.js · React · Tailwind CSS
-* **Backend:** Supabase[cite: 2]
-* **AI:** Google Gemini AI
-* **Authentication:** Supabase Authentication[cite: 2]
-* **Database:** Supabase[cite: 2]
-* **Focus:** AI conversations · Chat history · User experience
-* **Repository:** [Add Repository Link]
-* **Live Demo:** [Add Live Demo Link]
+
+| Category | Details |
+| :--- | :--- |
+| **Stack** | Next.js · React · Tailwind CSS · Supabase · Google Gemini AI · APIs |
+| **Frontend** | Next.js · React · Tailwind CSS |
+| **Backend** | Supabase[cite: 2] |
+| **AI** | Google Gemini AI |
+| **Authentication** | Supabase Authentication |
+| **Database** | Supabase[cite: 2] |
+| **Focus** | AI conversations · Chat history · User experience |
+| **Repository** | [Add Repository Link] |
+| **Live Demo** | [Add Live Demo Link] |
 
 **Engineering Focus:**
 * Built a modern responsive chatbot interface.
@@ -89,51 +98,62 @@ An AI-powered chatbot web application designed to provide users with an interact
 * Designed reusable frontend components[cite: 2].
 * Focused on responsive and user-friendly interaction patterns.
 
-### Responsive Web Applications
+</details>
+
+<details>
+<summary><b>📱 Responsive Web Applications</b></summary>
+
 A collection of responsive frontend applications developed using modern React and Next.js development practices[cite: 2].
-* **Category:** Details
-* **Stack:** Next.js · JavaScript · Tailwind CSS · React · Postman[cite: 2]
-* **Architecture:** Component-based frontend[cite: 2]
-* **Design:** Responsive · Mobile-first[cite: 2]
-* **UI:** Reusable components[cite: 2]
-* **Performance:** Frontend optimization[cite: 2]
-* **Tools:** Git · GitHub · Vercel · Figma · VS Code · Chrome DevTools[cite: 2]
-* **Repository:** [Add Repository Link]
-* **Live Demo:** [Add Live Demo Link]
+
+| Category | Details |
+| :--- | :--- |
+| **Stack** | Next.js · JavaScript · Tailwind CSS · React · Postman[cite: 2] |
+| **Architecture** | Component-based frontend[cite: 2] |
+| **Design** | Responsive · Mobile-first[cite: 2] |
+| **UI** | Reusable components[cite: 2] |
+| **Performance** | Frontend optimization[cite: 2] |
+| **Tools** | Git · GitHub · Vercel · Figma · VS Code · Chrome DevTools[cite: 2] |
+| **Repository** | [Add Repository Link] |
+| **Live Demo** | [Add Live Demo Link] |
 
 **Engineering Focus:**
 * Developed responsive interfaces for multiple screen sizes[cite: 2].
 * Converted UI/UX designs and wireframes into functional frontend applications[cite: 2].
 * Created reusable components to maintain consistency[cite: 2].
 * Implemented responsive layouts using Tailwind CSS[cite: 2].
-* Debugged and optimized frontend issues using Chrome DevTools and Postman[cite: 2].
+* Debugged and optimized frontend issues[cite: 2].
 * Used Git/GitHub for version control and collaboration[cite: 2].
 
-💼 Experience
+</details>
+
+---
+
+## 💼 Experience
 
 ### Frontend Developer — Devisgon[cite: 2]
 *January 2026 – June 2026*[cite: 2]
 Worked on responsive, high-performance web applications using modern frontend technologies[cite: 2].
 
 **Scope of Work:**
-* Developed and maintained responsive web applications using Next.js, JavaScript, and Tailwind CSS[cite: 2].
-* Translated UI/UX designs, wireframes, and business requirements into scalable frontend solutions[cite: 2].
-* Built reusable components while maintaining design consistency[cite: 2].
-* Collaborated with cross-functional teams on application improvements and new features[cite: 2].
-* Troubleshot frontend issues and contributed to application performance optimization[cite: 2].
-* Focused on accessibility, responsiveness, cross-browser compatibility, and overall product quality[cite: 2].
+* Develop and maintain responsive, high-performance web applications using Next.js, JavaScript, and Tailwind CSS, ensuring seamless user experiences across multiple devices and browsers[cite: 2].
+* Translate UI/UX designs, wireframes, and business requirements into scalable frontend solutions by building reusable components, maintaining design consistency, and following modern development standards[cite: 2].
+* Collaborate with cross-functional teams to optimize application performance, troubleshoot issues, implement new features, and ensure accessibility, responsiveness, and overall product quality[cite: 2].
 
 **Skills:**
-Next.js · JavaScript · React · Tailwind CSS · HTML · CSS · Responsive Design · APIs · Postman · Git · GitHub · Figma · VS Code[cite: 2]
+Next.js · JavaScript · React · Tailwind CSS · HTML · CSS · Responsive Design · Git · GitHub · Figma · Postman · VS Code[cite: 2]
 
-🎓 Education
+---
+
+## 🎓 Education
 
 ### University of Agriculture[cite: 2]
 *September 2021 – May 2025*[cite: 2]
-Studied Computer Science[cite: 2] with coursework and practical exposure to:
-Web Engineering · Software Engineering · OOP · Database Systems · Data Structures & Algorithms · Computer Networks · Operating Systems · HCI · SDLC · Requirements Engineering · System Analysis & Design · SQA[cite: 2]
+Studied core computer science subjects including Web Engineering, Software Engineering, Object-Oriented Programming, Database Systems, Data Structures & Algorithms, Computer Networks, and Operating Systems[cite: 2]. Gained practical knowledge of frontend development, responsive user interface design, Human-Computer Interaction (HCI), mobile application development, and modern software development methodologies[cite: 2]. Developed an understanding of the Software Development Life Cycle (SDLC), Software Quality Assurance (SQA), Requirements Engineering, System Analysis & Design, database management, and collaborative development practices[cite: 2].
 
-🏆 Achievements & Strengths
+---
+
+## 🏆 Achievements & Strengths
+
 <div align="center">
 
 | Recognition | Details |
@@ -148,21 +168,23 @@ Web Engineering · Software Engineering · OOP · Database Systems · Data Struc
 
 </div>
 
-💻 Coding & Developer Profiles
+---
+
+## 💻 Coding & Developer Profiles
 
 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsmaSaleem9405&show_icons=true&theme=radical&hide_border=true&bg_color=1f2430" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsmaSaleem9405&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="GitHub Stats" />
 </p>
 
 🏅 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsmaSaleem9405&theme=radical&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AsmaSaleem9405&theme=radical&no-frame=true&margin-w=4&margin-h=4&column=4" alt="GitHub Trophies" />
 </p>
 
 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsmaSaleem9405&theme=radical&hide_border=true&background=1f2430" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsmaSaleem9405&theme=react-dark&hide_border=true&color=A855F7&line=A855F7&point=FFFFFF&background=0D1117" alt="Contribution Graph" />
 </p>
 
 🐍 Contribution Snake
@@ -173,7 +195,10 @@ Web Engineering · Software Engineering · OOP · Database Systems · Data Struc
   </picture>
 </p>
 
-🎯 Current Focus
+---
+
+## 🎯 Current Focus
+
 ```yaml
 profile:
   name: "Asma Saleem"
