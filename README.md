@@ -14,17 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/asma-saleem1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:asmasaleemuafo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/AsmaSaleem9405">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/asma-saleem1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:asmasaleemuafo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/AsmaSaleem9405"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -60,9 +52,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,supabase,git,github,vscode,postman,figma,vercel,canva,jira" />
-
 </p>
 
 ---
@@ -176,15 +166,8 @@ A collection of responsive frontend projects using modern React and Next.js deve
 ## 💻 Coding Profiles
 
 <p align="center">
-
-<a href="https://github.com/AsmaSaleem9405">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/asma-saleem1/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+<a href="https://github.com/AsmaSaleem9405"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/asma-saleem1/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -208,9 +191,7 @@ A collection of responsive frontend projects using modern React and Next.js deve
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=AsmaSaleem9405&theme=radical&no-frame=true&margin-w=5&margin-h=5&column=4" alt="GitHub Trophies" />
-
 </p>
 
 ---
@@ -218,9 +199,7 @@ A collection of responsive frontend projects using modern React and Next.js deve
 # 📈 Contribution Activity
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsmaSaleem9405&theme=react-dark&hide_border=true&color=A855F7&line=A855F7&point=FFFFFF&bg_color=0D1117" alt="Contribution Graph" />
-
 </p>
 
 ---
@@ -228,9 +207,7 @@ A collection of responsive frontend projects using modern React and Next.js deve
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/AsmaSaleem9405/AsmaSaleem9405/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
 </p>
 
 ---
@@ -264,3 +241,26 @@ open_to:
   - "Next.js / React Projects"
   - "Freelance Projects"
   - "Open Source Contributions"
+```
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:asmasaleemuafo@gmail.com"><img src="https://img.shields.io/badge/Gmail-asmasaleemuafo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/asma-saleem1/"><img src="https://img.shields.io/badge/LinkedIn-Asma%20Saleem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/AsmaSaleem9405"><img src="https://img.shields.io/badge/GitHub-Asma%20Saleem-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Building responsive experiences, one component at a time.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=120&section=footer" width="100%"/>
+
+</div>
