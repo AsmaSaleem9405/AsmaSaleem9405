@@ -1,26 +1,32 @@
-💜 Asma Saleem — Frontend Developer
+# 💜 Asma Saleem — Frontend Developer
 
 <div align="center">
 
-[![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,30,45&height=220&section=header&text=Asma%20Saleem&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&font=&desc=Frontend%20Developer%20|%20Next.js%20&%20React%20Specialist&descSize=16&descAlignY=60)](https://github.com/AsmaSaleem9405)
+[![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,30,45&height=220&section=header&text=Asma%20Saleem&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Next.js%20%26%20React%20Specialist&descSize=16&descAlignY=60)](https://github.com/AsmaSaleem9405)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=50&lines=Building+Responsive+Web+Applications;Translating+UI%2FUX+to+Scalable+Code;Crafting+Modern+Next.js+Interfaces;Focused+on+Performance+and+Accessibility)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Degree-BS%20Computer%20Science-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-6D28D9?style=for-the-badge&logo=mappin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Pakistan-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/asma-saleem1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:asmasaleemuafo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AsmaSaleem9405" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/asma-saleem1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:asmasaleemuafo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AsmaSaleem9405">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsmaSaleem9405&color=7c3aed&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AsmaSaleem9405?color=7c3aed&style=flat-square&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/AsmaSaleem9405?color=7c3aed&style=flat-square&logo=github&label=Stars" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=AsmaSaleem9405&color=7c3aed&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/AsmaSaleem9405?color=7c3aed&style=flat-square&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/AsmaSaleem9405?color=7c3aed&style=flat-square&logo=github&label=Stars" />
 </p>
 
 </div>
@@ -29,24 +35,29 @@
 
 ## 👩‍💻 About Me
 
-* **Frontend Developer** specializing in building responsive, high-performance web applications using modern web technologies.
-* Expert in transforming **UI/UX designs, wireframes, and business requirements** into scalable frontend architectures.
-* Strong focus on **component-based design, accessibility standards, website optimization, and cross-browser compatibility**.
-* Experienced in modern version control workflows, API integrations, and collaborative product engineering.
+- **Frontend Developer** specializing in responsive and modern web applications.
+- Experienced in building interfaces using **Next.js, React, JavaScript, and Tailwind CSS**.
+- Skilled at transforming **UI/UX designs, wireframes, and business requirements** into functional frontend applications.
+- Focused on **responsive design, reusable components, accessibility, performance, and clean code**.
+- Experienced with **Git, GitHub, APIs, Supabase, Postman, Figma, Canva, and Vercel**.
 
 ### 🎯 Open To
-* Frontend Developer opportunities
-* Next.js / React projects
-* UI-to-code implementation roles
-* Responsive web application development
-* Open-source contributions
+
+- Frontend Developer opportunities
+- Next.js / React projects
+- UI-to-code implementation
+- Responsive web application development
+- Freelance frontend projects
+- Open-source contributions
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,supabase,git,github,vscode,postman,figma,vercel,canva,jira,windows" />
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,supabase,git,github,vscode,postman,figma,vercel,canva,jira" />
+
 </p>
 
 ---
@@ -55,13 +66,15 @@
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Next.js** | Advanced | Responsive web applications, modern architecture, and scalable routing |
-| **JavaScript** | Strong | Interactive interfaces, application logic, and DOM manipulation |
-| **React** | Strong | Component-based UI development and reusable interface architecture |
-| **Tailwind CSS** | Strong | Utility-first responsive styling and mobile-first development |
-| **APIs & Integration** | Strong | RESTful API connection, endpoint testing via Postman, and asynchronous data flows |
-| **UI/UX Implementation** | Strong | Translating Figma wireframes into functional, pixel-perfect frontend code |
-| **Performance Optimization** | Intermediate | Website optimization, debugging, and cross-browser compatibility |
+| **Next.js** | Advanced | Modern web applications, routing, reusable components |
+| **JavaScript** | Strong | Application logic, interactions, APIs and DOM |
+| **React** | Strong | Component-based UI development |
+| **Tailwind CSS** | Strong | Responsive and mobile-first styling |
+| **APIs & Integration** | Strong | REST APIs, asynchronous requests and Postman |
+| **UI/UX Implementation** | Strong | Converting Figma designs into frontend code |
+| **Git & GitHub** | Strong | Version control and collaborative development |
+| **Supabase** | Intermediate | Authentication and database integration |
+| **Performance** | Intermediate | Optimization, debugging and responsive performance |
 
 ---
 
@@ -70,42 +83,55 @@
 <details>
 <summary><b>🤖 AI Chatbot Web Application</b></summary>
 
-An AI-powered conversational web application delivering interactive user engagement and persistent chat history management.
+<br>
 
-| Metric / Attribute | Detail |
+An AI-powered conversational web application designed for interactive conversations and user-specific chat history.
+
+| Attribute | Details |
 | :--- | :--- |
-| **Stack** | Next.js · React · Tailwind CSS · Supabase · Google Gemini AI · APIs |
-| **Architecture** | Component-based modern frontend layout with secure backend services |
-| **Performance** | Optimized client-side state handling and asynchronous API streaming |
-| **Security** | Secure user authentication and database isolation via Supabase |
-| **Impact** | Provided seamless real-time AI conversations with responsive multi-device support |
-| **Repository** | [GitHub Repository](https://github.com/AsmaSaleem9405) |
+| **Frontend** | Next.js · React · JavaScript |
+| **Styling** | Tailwind CSS |
+| **Backend** | Supabase |
+| **AI** | Google Gemini API |
+| **Testing** | Postman |
+| **Architecture** | Component-based frontend |
+| **Focus** | Responsive UI and real-time interaction |
 
-**Engineering Focus:**
-* Built a modern, responsive chat interface tailored for optimal user experience.
-* Integrated Google Gemini AI for robust conversational capabilities.
-* Implemented Supabase authentication and user-specific data storage workflows.
+### Engineering Focus
+
+- Built a responsive AI chat interface.
+- Integrated Google Gemini AI.
+- Implemented authentication with Supabase.
+- Created user-specific chat data workflows.
+- Focused on responsive multi-device experiences.
 
 </details>
 
+<br>
+
 <details>
-<summary><b>📱 Responsive Web Applications Collection</b></summary>
+<summary><b>📱 Responsive Web Applications</b></summary>
 
-A suite of responsive frontend applications built leveraging modern component-driven React and Next.js methodologies.
+<br>
 
-| Metric / Attribute | Detail |
+A collection of responsive frontend projects created using modern React and Next.js development practices.
+
+| Attribute | Details |
 | :--- | :--- |
-| **Stack** | Next.js · JavaScript · Tailwind CSS · React · Postman · VS Code |
-| **Architecture** | Mobile-first modular layout with reusable component structures |
-| **Performance** | Streamlined asset loading and clean semantic DOM markup |
-| **Security** | Adherence to modern web security standards and sanitized inputs |
-| **Impact** | Achieved cross-device consistency and high cross-browser compatibility |
-| **Repository** | [GitHub Repository](https://github.com/AsmaSaleem9405) |
+| **Framework** | Next.js |
+| **Language** | JavaScript |
+| **UI** | React + Tailwind CSS |
+| **Testing** | Postman |
+| **Development** | VS Code |
+| **Design** | Responsive / Mobile-first |
 
-**Engineering Focus:**
-* Converted complex Figma wireframes into highly optimized frontend code.
-* Maintained design system consistency through structured component architecture.
-* Conducted thorough endpoint testing and debugging using Postman and Chrome DevTools.
+### Engineering Focus
+
+- Converted UI/UX designs into responsive frontend applications.
+- Created reusable React components.
+- Implemented mobile-first layouts.
+- Tested API endpoints using Postman.
+- Debugged applications using browser developer tools.
 
 </details>
 
@@ -114,11 +140,15 @@ A suite of responsive frontend applications built leveraging modern component-dr
 ## 💼 Experience
 
 ### Frontend Developer — Devisgon
-*January 2026 – June 2026*
 
-* Developed and maintained responsive, high-performance web applications using Next.js, JavaScript, and Tailwind CSS, ensuring seamless user experiences across multiple devices and browsers.
-* Translated UI/UX designs, wireframes, and business requirements into scalable frontend solutions by building reusable components, maintaining design consistency, and following modern development standards.
-* Collaborated with cross-functional teams to optimize application performance, troubleshoot issues, implement new features, and ensure accessibility, responsiveness, and overall product quality.
+**August 2025 – December 2025**
+
+- Developed responsive web applications using **Next.js, JavaScript, React, and Tailwind CSS**.
+- Converted UI/UX designs and business requirements into functional frontend interfaces.
+- Built reusable components and maintained consistent design systems.
+- Worked on responsive layouts across desktop, tablet, and mobile devices.
+- Debugged frontend issues and optimized application performance.
+- Collaborated with team members to implement new features and improve existing interfaces.
 
 ---
 
@@ -128,10 +158,11 @@ A suite of responsive frontend applications built leveraging modern component-dr
 
 | Recognition | Details |
 | :--- | :--- |
-| **🎓 Computer Science Graduate** | Completed rigorous foundational training in Computer Science at the University of Agriculture |
-| **💻 Frontend Professional** | Demonstrated real-world experience building scalable applications at Devisgon |
-| **🎨 UI/UX Implementation** | Skilled in translating design briefs and wireframes into clean, production-ready frontend code |
-| **📱 Responsive Architecture** | Dedicated focus on mobile-first development, accessibility standards, and cross-browser consistency |
+| 🎓 **Computer Science Graduate** | BS Computer Science |
+| 💻 **Frontend Developer** | Experience building modern web applications |
+| 🎨 **UI/UX Implementation** | Converting designs into production-ready interfaces |
+| 📱 **Responsive Development** | Mobile-first and cross-device development |
+| ⚡ **Modern Technologies** | Next.js, React, JavaScript and Tailwind CSS |
 
 </div>
 
@@ -140,113 +171,97 @@ A suite of responsive frontend applications built leveraging modern component-dr
 ## 💻 Coding Profiles
 
 <p align="center">
-  <a href="https://github.com/AsmaSaleem9405" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/asma-saleem1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://github.com/AsmaSaleem9405">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/asma-saleem1/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsmaSaleem9405&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=AsmaSaleem9405&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AsmaSaleem9405&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7" alt="GitHub Streak" />
+
+<img src="https://streak-stats.demolab.com?user=AsmaSaleem9405&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaSaleem9405&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages" />
-</p>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaSaleem9405&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages"/>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsmaSaleem9405&theme=radical&no-frame=true&margin-w=4&margin-h=4&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsmaSaleem9405&theme=react-dark&hide_border=true&color=A855F7&line=A855F7&point=FFFFFF&background=0D1117" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsmaSaleem9405/AsmaSaleem9405/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/AsmaSaleem9405/AsmaSaleem9405/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation">
-  </picture>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AsmaSaleem9405&theme=radical&no-frame=true&margin-w=5&margin-h=5&column=4" alt="GitHub Trophies"/>
+
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsmaSaleem9405&theme=react-dark&hide_border=true&color=A855F7&line=A855F7&point=FFFFFF&bg_color=0D1117" alt="Contribution Graph"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/AsmaSaleem9405/AsmaSaleem9405/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
 
 ```yaml
 profile:
   name: "Asma Saleem"
   role: "Frontend Developer"
-  location: "Lahore, Pakistan"
+  location: "Pakistan"
 
 learning:
   - "Advanced Next.js App Router"
-  - "TypeScript Integration"
+  - "TypeScript"
   - "Frontend Performance Optimization"
   - "Scalable Component Architecture"
 
 building:
   - "Responsive Web Applications"
   - "Next.js & React Projects"
-  - "Reusable UI Component Libraries"
+  - "Reusable UI Components"
 
 exploring:
   - "Modern Frontend Architecture"
-  - "Web Accessibility Standards"
+  - "Web Accessibility"
   - "Product-focused UI/UX Engineering"
 
 open_to:
   - "Frontend Developer Opportunities"
   - "Next.js / React Projects"
-  - "Collaborative Product Engineering"
+  - "Freelance Projects"
   - "Open Source Contributions"
-```
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:asmasaleemuafo@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-asmasaleemuafo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/asma-saleem1/">
-<img src="https://img.shields.io/badge/LinkedIn-Asma%20Saleem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Asma%20Saleem-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Building responsive experiences, one component at a time.
-
-<a href="https://capsule-render.vercel.app/"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=120&section=footer" width="100%"/> </a>
-
-</div>
-
