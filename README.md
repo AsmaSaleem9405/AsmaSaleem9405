@@ -2,9 +2,11 @@
 
 <div align="center">
 
-[![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,30,45&height=220&section=header&text=Asma%20Saleem&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Next.js%20%26%20React%20Specialist&descSize=16&descAlignY=60)](https://github.com/AsmaSaleem9405)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,30,45&height=220&section=header&text=Asma%20Saleem&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Next.js%20%26%20React%20Specialist&descSize=16&descAlignY=60" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=50&lines=Building+Responsive+Web+Applications;Translating+UI%2FUX+to+Scalable+Code;Crafting+Modern+Next.js+Interfaces;Focused+on+Performance+and+Accessibility)](https://git.io/typing-svg)
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=50&lines=Building+Responsive+Web+Applications;Translating+UI%2FUX+to+Scalable+Code;Crafting+Modern+Next.js+Interfaces;Focused+on+Performance+and+Accessibility" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Degree-BS%20Computer%20Science-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" />
@@ -15,9 +17,11 @@
   <a href="https://www.linkedin.com/in/asma-saleem1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:asmasaleemuafo@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://github.com/AsmaSaleem9405">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -35,11 +39,12 @@
 
 ## 👩‍💻 About Me
 
-- **Frontend Developer** specializing in responsive and modern web applications.
-- Experienced in building interfaces using **Next.js, React, JavaScript, and Tailwind CSS**.
-- Skilled at transforming **UI/UX designs, wireframes, and business requirements** into functional frontend applications.
-- Focused on **responsive design, reusable components, accessibility, performance, and clean code**.
-- Experienced with **Git, GitHub, APIs, Supabase, Postman, Figma, Canva, and Vercel**.
+- 💻 **Frontend Developer** specializing in modern, responsive web applications.
+- ⚛️ Experienced with **Next.js, React, JavaScript, and Tailwind CSS**.
+- 🎨 Skilled at converting **Figma designs and UI/UX concepts** into functional interfaces.
+- 📱 Focused on responsive, mobile-first and accessible web experiences.
+- 🚀 Interested in performance optimization and scalable frontend architecture.
+- 🔧 Experienced with Git, GitHub, APIs, Supabase, Postman, Figma, Canva and Vercel.
 
 ### 🎯 Open To
 
@@ -66,15 +71,15 @@
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Next.js** | Advanced | Modern web applications, routing, reusable components |
-| **JavaScript** | Strong | Application logic, interactions, APIs and DOM |
+| **Next.js** | Advanced | Modern web applications, routing and reusable components |
+| **JavaScript** | Strong | Application logic, interactions and APIs |
 | **React** | Strong | Component-based UI development |
 | **Tailwind CSS** | Strong | Responsive and mobile-first styling |
-| **APIs & Integration** | Strong | REST APIs, asynchronous requests and Postman |
+| **APIs & Integration** | Strong | REST APIs and asynchronous data |
 | **UI/UX Implementation** | Strong | Converting Figma designs into frontend code |
-| **Git & GitHub** | Strong | Version control and collaborative development |
+| **Git & GitHub** | Strong | Version control and collaboration |
 | **Supabase** | Intermediate | Authentication and database integration |
-| **Performance** | Intermediate | Optimization, debugging and responsive performance |
+| **Performance** | Intermediate | Optimization and debugging |
 
 ---
 
@@ -102,8 +107,8 @@ An AI-powered conversational web application designed for interactive conversati
 - Built a responsive AI chat interface.
 - Integrated Google Gemini AI.
 - Implemented authentication with Supabase.
-- Created user-specific chat data workflows.
-- Focused on responsive multi-device experiences.
+- Created user-specific chat workflows.
+- Designed responsive multi-device experiences.
 
 </details>
 
@@ -114,7 +119,7 @@ An AI-powered conversational web application designed for interactive conversati
 
 <br>
 
-A collection of responsive frontend projects created using modern React and Next.js development practices.
+A collection of responsive frontend projects using modern React and Next.js development practices.
 
 | Attribute | Details |
 | :--- | :--- |
@@ -127,10 +132,10 @@ A collection of responsive frontend projects created using modern React and Next
 
 ### Engineering Focus
 
-- Converted UI/UX designs into responsive frontend applications.
+- Converted UI/UX designs into responsive applications.
 - Created reusable React components.
 - Implemented mobile-first layouts.
-- Tested API endpoints using Postman.
+- Tested APIs using Postman.
 - Debugged applications using browser developer tools.
 
 </details>
@@ -143,12 +148,12 @@ A collection of responsive frontend projects created using modern React and Next
 
 **August 2025 – December 2025**
 
-- Developed responsive web applications using **Next.js, JavaScript, React, and Tailwind CSS**.
+- Developed responsive web applications using **Next.js, JavaScript, React and Tailwind CSS**.
 - Converted UI/UX designs and business requirements into functional frontend interfaces.
 - Built reusable components and maintained consistent design systems.
-- Worked on responsive layouts across desktop, tablet, and mobile devices.
+- Worked on responsive layouts across desktop, tablet and mobile devices.
 - Debugged frontend issues and optimized application performance.
-- Collaborated with team members to implement new features and improve existing interfaces.
+- Collaborated with team members to implement features and improve interfaces.
 
 ---
 
@@ -187,21 +192,15 @@ A collection of responsive frontend projects created using modern React and Next
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AsmaSaleem9405&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AsmaSaleem9405&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AsmaSaleem9405&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
-
+  <img src="https://streak-stats.demolab.com?user=AsmaSaleem9405&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaSaleem9405&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaSaleem9405&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 ---
@@ -210,7 +209,7 @@ A collection of responsive frontend projects created using modern React and Next
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AsmaSaleem9405&theme=radical&no-frame=true&margin-w=5&margin-h=5&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AsmaSaleem9405&theme=radical&no-frame=true&margin-w=5&margin-h=5&column=4" alt="GitHub Trophies" />
 
 </p>
 
@@ -220,7 +219,7 @@ A collection of responsive frontend projects created using modern React and Next
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsmaSaleem9405&theme=react-dark&hide_border=true&color=A855F7&line=A855F7&point=FFFFFF&bg_color=0D1117" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsmaSaleem9405&theme=react-dark&hide_border=true&color=A855F7&line=A855F7&point=FFFFFF&bg_color=0D1117" alt="Contribution Graph" />
 
 </p>
 
@@ -230,7 +229,7 @@ A collection of responsive frontend projects created using modern React and Next
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/AsmaSaleem9405/AsmaSaleem9405/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/AsmaSaleem9405/AsmaSaleem9405/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </p>
 
